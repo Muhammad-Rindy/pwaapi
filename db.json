@@ -1,0 +1,24 @@
+{
+  "products" : [
+  {"id":1,"name":"Galapagos sea lion","category":"Green"},
+{"id":2,"name":"Cormorant, little","category":"Puce"},
+{"id":3,"name":"Chestnut weaver","category":"Puce"},
+{"id":4,"name":"Richardson's ground squirrel","category":"Fuscia"},
+{"id":5,"name":"Serval","category":"Puce"},
+{"id":6,"name":"Grouse, sage","category":"Indigo"},
+{"id":7,"name":"Asian foreset tortoise","category":"Red"},
+{"id":8,"name":"Stork, woolly-necked","category":"Khaki"},
+{"id":9,"name":"Musk ox","category":"Green"},
+{"id":10,"name":"Snowy egret","category":"Violet"},
+{"id":11,"name":"Red hartebeest","category":"Mauv"},
+{"id":12,"name":"Tammar wallaby","category":"Indigo"},
+{"id":13,"name":"Antelope ground squirrel","category":"Maroon"},
+{"id":14,"name":"Pine siskin","category":"Orange"},
+{"id":15,"name":"Antelope ground squirrel","category":"Puce"},
+{"id":16,"name":"Spoonbill, european","category":"Puce"},
+{"id":17,"name":"Jackal, asiatic","category":"Pink"},
+{"id":18,"name":"Monitor, two-banded","category":"Crimson"},
+{"id":19,"name":"Olive baboon","category":"Aquamarine"},
+{"id":20,"name":"Asian foreset tortoise","category":"Puce"}
+]
+}
